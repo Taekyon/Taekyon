@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taekyon
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning HTML5, CSS3 and Python
+- 🌱 I’m currently learning HTML5, CSS3 and Javascript
 - 📫 How to reach me lean.asai@protonmail.com
 
 <!---
